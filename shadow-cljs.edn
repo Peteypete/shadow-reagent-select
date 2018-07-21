@@ -2,7 +2,10 @@
 
  :dependencies [[binaryage/devtools "0.9.10"]
                 [proto-repl "0.3.1"]
-                [reagent "0.8.0"]]
+                [reagent "0.8.0"]
+                [cljsjs/classnames "2.2.5-1"]
+                [cljsjs/react-input-autosize "2.2.1-1"]
+                [cljsjs/react-select "1.2.1-1"]]
 
  :nrepl        {:port 3333}
 
